@@ -13,4 +13,6 @@ A collection of basic Python programming language programs for learners.
   <li><a href="https://github.com/ProxyHydra/Basic-Python-Programs/tree/main/Level%205">Level 5</a>: OOP and extras</li>
 </ul>
 
+**Next Update:** Deployment of most these functionalities into a menu driven single point web-app.
+
 Note: This repository has python codes also used for the author's academic work. The 'levels' can also be interpreted as difficulty levels.
